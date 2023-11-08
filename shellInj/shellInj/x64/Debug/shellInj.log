@@ -1,0 +1,18 @@
+﻿  App.c
+C:\Users\Re\Desktop\malw\dev\shellInj\shellInj\App.c(42,9): warning C4133: 'function': incompatible types - from 'STARTUPINFO *' to 'LPSTARTUPINFOA'
+C:\Users\Re\Desktop\malw\dev\shellInj\shellInj\App.c(53,22): warning C4047: '!=': 'DWORD' differs in levels of indirection from 'void *'
+C:\Users\Re\Desktop\malw\dev\shellInj\shellInj\App.c(30,5): error C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Re\Desktop\malw\dev\shellInj\shellInj\App.c(61,13): warning C4047: 'initializing': 'SIZE_T' differs in levels of indirection from 'void *'
+C:\Users\Re\Desktop\malw\dev\shellInj\shellInj\App.c(62,13): warning C4047: 'initializing': 'DWORD' differs in levels of indirection from 'void *'
+C:\Users\Re\Desktop\malw\dev\shellInj\shellInj\App.c(96,15): error C2039: 'Eip': is not a member of '_CONTEXT'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(4206,54): message : see declaration of '_CONTEXT'
+  runtimeResolveFunc.c
+  shellInj.c
+C:\Users\Re\Desktop\malw\dev\shellInj\shellInj\shellInj.c(42,19): warning C4047: '==': 'SIZE_T' differs in levels of indirection from 'void *'
+C:\Users\Re\Desktop\malw\dev\shellInj\shellInj\shellInj.c(47,2): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'SIZE_T'
+C:\Users\Re\Desktop\malw\dev\shellInj\shellInj\shellInj.c(47,2): message : consider using '%lld' in the format string
+C:\Users\Re\Desktop\malw\dev\shellInj\shellInj\shellInj.c(47,2): message : consider using '%Id' in the format string
+C:\Users\Re\Desktop\malw\dev\shellInj\shellInj\shellInj.c(47,2): message : consider using '%I64d' in the format string
+C:\Users\Re\Desktop\malw\dev\shellInj\shellInj\shellInj.c(9,9): warning C4047: 'initializing': 'SIZE_T' differs in levels of indirection from 'void *'
+  Generating Code...
+C:\Users\Re\Desktop\malw\dev\shellInj\shellInj\runtimeResolveFunc.c(32): warning C4715: 'meow': not all control paths return a value

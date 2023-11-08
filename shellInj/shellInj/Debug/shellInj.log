@@ -1,0 +1,11 @@
+﻿  App.c
+  runtimeResolveFunc.c
+  shellInj.c
+C:\Users\Re\Desktop\malw\dev\shellInj\shellInj\shellInj.c(58,19): warning C4047: '==': 'SIZE_T' differs in levels of indirection from 'void *'
+C:\Users\Re\Desktop\malw\dev\shellInj\shellInj\shellInj.c(150,3): warning C4133: 'function': incompatible types - from 'STARTUPINFO *' to 'LPSTARTUPINFOA'
+C:\Users\Re\Desktop\malw\dev\shellInj\shellInj\shellInj.c(192,16): warning C4047: '=': 'DWORD' differs in levels of indirection from 'LPVOID'
+C:\Users\Re\Desktop\malw\dev\shellInj\shellInj\shellInj.c(13,9): warning C4047: 'initializing': 'SIZE_T' differs in levels of indirection from 'void *'
+C:\Users\Re\Desktop\malw\dev\shellInj\shellInj\shellInj.c(162,10): warning C4047: 'initializing': 'SIZE_T' differs in levels of indirection from 'void *'
+C:\Users\Re\Desktop\malw\dev\shellInj\shellInj\shellInj.c(163,10): warning C4047: 'initializing': 'DWORD' differs in levels of indirection from 'void *'
+  Generating Code...
+  shellInj.vcxproj -> C:\Users\Re\Desktop\malw\dev\shellInj\Debug\shellInj.exe
